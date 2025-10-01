@@ -1,3 +1,4 @@
 # Polynomial-RadiousClustering
 This is a repository for my new Unsupervised Learning AI code that you could use.
-I will upload the code and the final releases in a few days.
+I just uploaded the frist release code, use and enjoy it but don't forget to star.
+I will be releasing the final and the best version of it I think tommorow or so that is just going to blow up, so don't forget to star!
