@@ -1,5 +1,5 @@
 # Polynomial-RadiousClustering
----------------------------------------------[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)-----------------------------------------------------------
+)-----------------------------------------------------------[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)-----------------------------------------------------------
 
 This is a repository for my new Unsupervised Learning AI code that you could use.
 I just uploaded the frist release code, use and enjoy it but don't forget to star.
