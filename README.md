@@ -6,3 +6,5 @@ I just uploaded the frist release code, use and enjoy it but don't forget to sta
 I will be releasing the final and the best version of it I think tommorow or so that is just going to blow up, so don't forget to star!
 
 Also, all of the explanation and the mathematics and ..... will be uploaded soon, therefore you could just understand the algorythm so much better.
+
+Update: I will be uploading everything tonight or tomorow and if you want to be in touch with me, here is my email: radmanssd@outlook.com
